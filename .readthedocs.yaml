@@ -5,7 +5,7 @@ build:
   tools:
     python: "3.9"
 sphinx:
-  configuration: docs/conf.py  # Update this path if your conf.py is elsewhere
+  configuration: docs/source/conf.py  # Update this path if your conf.py is elsewhere
 
 python:
   install:
